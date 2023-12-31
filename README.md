@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
-  <main>
+  <main> 
       <div class="container">
         <div class="row">
           <div class="offset-1 col-10 offset-1 text-center my-5">
