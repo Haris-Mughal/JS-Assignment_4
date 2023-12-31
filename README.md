@@ -11,7 +11,7 @@
         <div class="row">
           <div class="offset-1 col-10 offset-1 text-center my-5">
             <h4>Chapter # 26 - 30 | Numbers, Integers &amp; Decimals</h4>
-            <div class="border-bottom mt-4 border-secondary"></div>
+            <div class="border-bottom mt-4 border-secondary"></div> 
           </div>
         </div>
    <div class="row mb-5">
