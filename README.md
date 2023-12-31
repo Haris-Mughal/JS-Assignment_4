@@ -14,8 +14,6 @@
             <div class="border-bottom mt-4 border-secondary"></div>
           </div>
         </div>
-
-
    <div class="row mb-5">
           <div class="col-12 col-md-6 mb-3 mb-md-0">
             <div class="h-100">
@@ -39,8 +37,6 @@
             </div>
           </div>
         </div>
-
-
 <div class="row mb-5">
           <div class="col-12 col-md-6 mb-3 mb-md-0">
             <div class="h-100">
